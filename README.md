@@ -1,16 +1,12 @@
 ## Hi there 👋
 
-<!--
-**eumazinhaa/eumazinhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Aqui estão algumas ideias para você começar:
 
-- 🔭 Atualmente estou trabalhando em ...
-- 🌱 Atualmente estou aprendendo 
-- 🤔 Estou procurando ajuda com 
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ....
+- 🔭 Atualmente estou estudando 
+- 🌱 Atualmente estou aprendendo programação de jogos
+- 🤔 Estou procurando ajuda com desenvolvimento de jogos
+- 📫 Como entrar em contato comigo: 
+- 😄 Pronomes: ela/dela
 -->
   
+![](https://media1.tenor.com/m/Ywma7l0YcJMAAAAd/cat-kitten.gif)
